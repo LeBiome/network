@@ -1,3 +1,10 @@
+---
+tilte: Austin Week 2015 & Biomimicry Education Summit & SXSW Eco
+description : Récit au jour le jour, étalage de pensées, de rencontres, de conférences. Histoire d'un fablab Biomimétisme pour une semaine à Austin.
+image_url: https://framapic.org/FOrQAhiUoSU8/RCbnXUslWkvc.jpg
+---
+
+
 # Le Biome à Austin - An unexpected Journey
 
 Récit au jour le jour, étalage de pensées, de rencontres, de conférences. Histoire d'un fablab Biomimétisme pour une semaine à Austin.
@@ -12,7 +19,7 @@ Paris, Quartier de Montparnasse, 7h00 du mat' à la montre. Décollage prévu à
 
 30 minutes ! Une demi-heure de conférence au sommet mondial du Biomimétisme le 4 octobre organisé par le Biomimicry Institute, Biomimicry 3.8 sur le sujet suivant: 
 
-"How to equip and manage a citizen open lab using biomimicry and circular economy principles"
+**"How to equip and manage a citizen open lab using biomimicry and circular economy principles"**
 
 ça, c'était fin Juin. Depuis les choses ont bien bougées.
 
