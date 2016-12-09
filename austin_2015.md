@@ -1,6 +1,6 @@
 ---
 title: Austin Week 2015 & Biomimicry Education Summit & SXSW Eco
-description : Récit au jour le jour, étalage de pensées, de rencontres, de conférences. Histoire d'un fablab Biomimétisme pour une semaine à Austin.
+description: Récit au jour le jour, étalage de pensées, de rencontres, de conférences. Histoire d'un fablab Biomimétisme pour une semaine à Austin.
 image_url: https://framapic.org/FOrQAhiUoSU8/RCbnXUslWkvc.jpg
 ---
 
