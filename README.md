@@ -1,6 +1,8 @@
-# network Le Biome Hack Lab & Communtiy
-
-biomimicry network  #WeAreBiomers
+---
+title: Réseau et Carte de la communauté du Biome
+description: Open WorldWide Community
+image_url: https://framapic.org/rLMVV2N1YlxK/p3WzZecUIYH0.jpg
+---
 
 ## La Carte
 
