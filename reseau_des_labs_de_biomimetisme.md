@@ -10,7 +10,7 @@ image_url: https://framapic.org/P5XhsUJ7v6E0/vycIeRX5uMvO.jpg
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ypKLOzQw6Lu_p.62368_1423196659895_88x31.png)
 
-Réseau (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Paillasse Paris le 05/02.
+Réseau (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Paillasse Paris le 05/02/2015
 
 ## Besoins
 
