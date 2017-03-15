@@ -71,13 +71,21 @@ Le Biome fonctionne depuis mai 2014 en mode collectif avec différents statuts (
 Nous bricolons en mode tiers lieu nomade avant de finaliser un lieu fixe à Rennes. Nous fonctionnons sur une boucle ouverte : biomimétisme -  DIT - Jugaad - économie circulaire.
 
 * Développements en cours
+
 1) I6 une méthode de management de l’innovation inspirée de la molécule de benzène C6H6 et ses particularités. Ingénierie, Idéation, Inception, Itération, Intéraction, Inclusion et 6 H pour Human de connexion extérieure. (publication en licence CC pour la v2 à venir)
+
 2) SCOdD, copier puis améliorer l'exosquelette du scorpion pour concevoir des abris d'urgences pour réfugiés. Également travaux sur des EPI pour pompiers et  industriels.
+
 3) Le pissenlit pour produire un latex non allergène réellement durable
+
 4) Agriculture urbaine et aquaponie à Rennes pour l'autonomie et sécurité alimentaire.
+
 5) Elementary, un programme de recensement  des inspirations par la nature participatif et éducatif pour les enfants.
+
 6) SymBiose, 12 mois d'expérimentation et documentions (CC) en "mécénat de  compétences" pour booster les projets à fort impact environnementaux. Objectif: changer l'expression mécénat de compétence, développer une  méthodologie commune, booster les jeunes pousses
+
  7) Un microscope DIY accessible à tous en détournant l’usage des Smartphones
+ 
  8) Un imprimante 3D Lowcost à base de déchets informatiques
 
 * Le LABio (Senlis) - Martin
